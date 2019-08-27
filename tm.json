@@ -366,12 +366,12 @@
         {
             "source": "LABB1-510-001",
             "target": "LABB1-510-001:Hun0/0/1/0",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-002",
             "target": "LABB1-510-002:Hun0/0/1/0",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-001:Hun0/0/1/0",
@@ -381,12 +381,12 @@
         {
             "source": "LABB1-510-001",
             "target": "LABB1-510-001:Hun0/0/1/1",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-003",
             "target": "LABB1-510-003:Hun0/0/1/1",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-001:Hun0/0/1/1",
@@ -396,12 +396,12 @@
         {
             "source": "LABB1-510-001",
             "target": "LABB1-510-001:Hun0/0/1/2",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-002",
             "target": "LABB1-510-002:Hun0/0/1/2",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-001:Hun0/0/1/2",
@@ -411,27 +411,27 @@
         {
             "source": "LABB1-510-001",
             "target": "LABB1-510-001:Ten0/0/0/23",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-005",
             "target": "LABB1-510-005:Ten0/0/0/0",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-001:Ten0/0/0/23",
             "target": "LABB1-510-005:Ten0/0/0/0",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-005",
             "target": "LABB1-510-005:Ten0/0/0/2",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-008",
             "target": "LABB1-510-008:Ten0/0/0/23",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-005:Ten0/0/0/2",
@@ -441,12 +441,12 @@
         {
             "source": "LABB1-510-005",
             "target": "LABB1-510-005:Ten0/0/0/1",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-012",
             "target": "LABB1-510-012:Ten1/2",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-005:Ten0/0/0/1",
@@ -456,12 +456,12 @@
         {
             "source": "LABB1-510-003",
             "target": "LABB1-510-003:Hun0/0/1/0",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-004",
             "target": "LABB1-510-004:Hun0/0/1/0",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-003:Hun0/0/1/0",
@@ -471,12 +471,12 @@
         {
             "source": "LABB1-510-003",
             "target": "LABB1-510-003:Ten0/0/0/36",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-008",
             "target": "LABB1-510-008:Ten0/0/0/38",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-003:Ten0/0/0/36",
@@ -486,12 +486,12 @@
         {
             "source": "LABB1-510-003",
             "target": "LABB1-510-003:Ten0/0/0/37",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-008",
             "target": "LABB1-510-008:Ten0/0/0/39",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-003:Ten0/0/0/37",
@@ -501,12 +501,12 @@
         {
             "source": "LABB1-510-002",
             "target": "LABB1-510-002:Hun0/0/1/1",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-004",
             "target": "LABB1-510-004:Hun0/0/1/1",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-002:Hun0/0/1/1",
@@ -516,12 +516,12 @@
         {
             "source": "LABB1-510-002",
             "target": "LABB1-510-002:Ten0/0/0/39",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-011",
             "target": "LABB1-510-011:Ten0/0/0/38",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-002:Ten0/0/0/39",
@@ -531,12 +531,12 @@
         {
             "source": "LABB1-510-006",
             "target": "LABB1-510-006:Ten0/0/0/23",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-012",
             "target": "LABB1-510-012:Ten1/3",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-006:Ten0/0/0/23",
@@ -546,12 +546,12 @@
         {
             "source": "LABB1-510-008",
             "target": "LABB1-510-008:Ten0/0/0/36",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-009",
             "target": "LABB1-510-009:Ten0/0/0/38",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-008:Ten0/0/0/36",
@@ -561,12 +561,12 @@
         {
             "source": "LABB1-510-008",
             "target": "LABB1-510-008:Ten0/0/0/37",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-009",
             "target": "LABB1-510-009:Ten0/0/0/39",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-008:Ten0/0/0/37",
@@ -576,12 +576,12 @@
         {
             "source": "LABB1-510-004",
             "target": "LABB1-510-004:Ten0/0/0/36",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-010",
             "target": "LABB1-510-010:Ten0/0/0/38",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-004:Ten0/0/0/36",
@@ -591,12 +591,12 @@
         {
             "source": "LABB1-510-004",
             "target": "LABB1-510-004:Ten0/0/0/37",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-010",
             "target": "LABB1-510-010:Ten0/0/0/39",
-            "value": 100
+            "value": 1
         },
         {
             "source": "LABB1-510-004:Ten0/0/0/37",
